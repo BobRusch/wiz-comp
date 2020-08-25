@@ -1,0 +1,16 @@
+.navbar-logo-img {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  padding-top: 0px;
+}
+
+.white-text-container p {
+  color: #fff;
+  text-shadow: 2px 8px 9px #000;
+  font-size: 1.5rem;
+}
+
+.carousel img {
+  width: 100%;
+  height: max(500px);
+}
